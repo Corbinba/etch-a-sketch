@@ -1,0 +1,1 @@
+This is an online Etch-a-Sketch created with HTML, Javascript, and CSS for TheOdinProject. I'm probably bound to make some improvements to the future if I decide to come back to it. For now, enjoy!
